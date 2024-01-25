@@ -19,7 +19,7 @@
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/lumenpanel/panel?style=for-the-badge">
 <p>
 
-Lumen is an modern server management built with NextJS, TypeScript and Prisma. Its made to fit the diverse needs of system administrators, hosting providers, and individual users. Lumens key features include:
+Lumen is a modern server management built with NextJS, TypeScript and Prisma. Its made to fit the diverse needs of system administrators, hosting providers, and individual users. Lumens key features include:
 
 -   Proxmox integration - Sell LXC and VPS servers with ease!
 -   Customization - Customize the panel to your likings.
